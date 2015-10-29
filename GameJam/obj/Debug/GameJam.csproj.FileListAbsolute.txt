@@ -1,0 +1,9 @@
+C:\Users\Tanat\Desktop\GameJam\GameJam\bin\Debug\GameJam.exe.config
+C:\Users\Tanat\Desktop\GameJam\GameJam\obj\Debug\GameJam.csprojResolveAssemblyReference.cache
+C:\Users\Tanat\Desktop\GameJam\GameJam\obj\Debug\GameJam.GameJam.resources
+C:\Users\Tanat\Desktop\GameJam\GameJam\obj\Debug\GameJam.Properties.Resources.resources
+C:\Users\Tanat\Desktop\GameJam\GameJam\obj\Debug\GameJam.csproj.GenerateResource.Cache
+C:\Users\Tanat\Desktop\GameJam\GameJam\bin\Debug\GameJam.exe
+C:\Users\Tanat\Desktop\GameJam\GameJam\bin\Debug\GameJam.pdb
+C:\Users\Tanat\Desktop\GameJam\GameJam\obj\Debug\GameJam.exe
+C:\Users\Tanat\Desktop\GameJam\GameJam\obj\Debug\GameJam.pdb

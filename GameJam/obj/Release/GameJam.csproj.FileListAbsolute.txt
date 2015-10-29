@@ -1,0 +1,17 @@
+C:\Users\Tanat\Desktop\GameJam\GameJam\bin\Release\GameJam.exe.config
+C:\Users\Tanat\Desktop\GameJam\GameJam\bin\Release\GameJam.exe
+C:\Users\Tanat\Desktop\GameJam\GameJam\bin\Release\GameJam.pdb
+C:\Users\Tanat\Desktop\GameJam\GameJam\obj\Release\GameJam.GameJam.resources
+C:\Users\Tanat\Desktop\GameJam\GameJam\obj\Release\GameJam.Properties.Resources.resources
+C:\Users\Tanat\Desktop\GameJam\GameJam\obj\Release\GameJam.csproj.GenerateResource.Cache
+C:\Users\Tanat\Desktop\GameJam\GameJam\obj\Release\GameJam.exe
+C:\Users\Tanat\Desktop\GameJam\GameJam\obj\Release\GameJam.pdb
+C:\Users\Tanat\Desktop\shit\GameJam\GameJam\bin\Release\GameJam.exe.config
+C:\Users\Tanat\Desktop\shit\GameJam\GameJam\obj\Release\GameJam.exe
+C:\Users\Tanat\Desktop\shit\GameJam\GameJam\obj\Release\GameJam.pdb
+C:\Users\Tanat\Desktop\shit\GameJam\GameJam\bin\Release\GameJam.exe
+C:\Users\Tanat\Desktop\shit\GameJam\GameJam\bin\Release\GameJam.pdb
+C:\Users\Tanat\Desktop\shit\GameJam\GameJam\obj\Release\GameJam.csprojResolveAssemblyReference.cache
+C:\Users\Tanat\Desktop\shit\GameJam\GameJam\obj\Release\GameJam.GameJam.resources
+C:\Users\Tanat\Desktop\shit\GameJam\GameJam\obj\Release\GameJam.Properties.Resources.resources
+C:\Users\Tanat\Desktop\shit\GameJam\GameJam\obj\Release\GameJam.csproj.GenerateResource.Cache
